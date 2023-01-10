@@ -1,0 +1,7 @@
+improt java.lang.*;
+public class java demo.1{
+public static void main(String[]args) {
+system.out.println(Hello World);
+}
+
+}
